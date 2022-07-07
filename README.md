@@ -1,0 +1,2 @@
+# MazGlobalApi
+MazGlobalApi  using  NextJS   
